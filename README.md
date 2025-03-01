@@ -2,12 +2,6 @@
 
 <!-- 나에 대한 설명 -->
 <div align="left">
-<!--   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgw6372" alt="Baekjoon Rank" />  -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=JGW-Korea&show_icons=true&theme=apprentice" alt="조계원's Github Stats"/>
-  </a>
-  
   <h3>👋 Hi, I’m GyeWon, a Frontend Developer 🧑‍💻</h3>
   <div>
     <a href="https://github.com/JGW-Korea"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/></a>
@@ -23,6 +17,13 @@
     <span><a href="#"><strong>동작 원리</strong></a>를 <a href="#"><strong>깊이 이해</strong></a>하며, <a href="#"><strong>한 단계씩 성장</strong></a>하는 <strong>프론트엔드 개발자 조계원</strong>입니다.</span><br/>
     <span><a href="#"><strong>사용자 경험</strong></a>과 <a href="#"><strong>기술적 접근성</strong></a>을 <a href="#"><strong>향상</strong></a>하는 개발자로 성장하기 위해 노력합니다.</span>
   </div>
+
+  <br />
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JGW-Korea&show_icons=true&theme=apprentice&hide=contribs" alt="조계원's Github Stats"/>
+  </a>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgw6372" alt="Baekjoon Rank" />
 </div>
 
 <br />
