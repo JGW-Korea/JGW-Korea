@@ -20,3 +20,9 @@
     <span><a href="#"><strong>사용자 경험</strong></a>과 <a href="#"><strong>기술적 접근성</strong></a>을 <a href="#"><strong>향상</strong></a>하는 개발자로 성장하기 위해 노력합니다.</span>
   </div>
 </div>
+
+<br />
+<!-- 기술 설명 -->
+<div>
+  <h2>SKILL</h2>
+</div>
