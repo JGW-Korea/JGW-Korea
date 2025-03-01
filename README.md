@@ -2,6 +2,7 @@
 
 <!-- 나에 대한 설명 -->
 <div align="left">
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgw6372" alt="Baekjoon Rank" />  
   
   <h3>👋 Hi, I’m GyeWon, a Frontend Developer 🧑‍💻</h3>
   <div>
@@ -22,8 +23,8 @@
 
   <br />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JGW-Korea&show_icons=true&theme=apprentice&hide=contribs" alt="조계원's Github Stats"/></a>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgw6372" alt="Baekjoon Rank" />
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JGW-Korea&show_icons=true&theme=apprentice&hide=contribs" alt="조계원's Github Stats"/></a> -->
+  
 </div>
 
 <!-- 기술 설명 -->
