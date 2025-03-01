@@ -3,7 +3,7 @@
 <!-- 나에 대한 설명 -->
 <div>
   <div>
-    <img align="right" src="./assets/img/web_devloper.gif" alt="웹 개발자 GIT 파일" width="300"  />
+    <img align="right" src="./assets/img/web_devloper.gif" alt="웹 개발자 GIT 파일" width="300" height="174"  />
     <h3>👋 Hi, I'm GyeWon, a Frontend Dev 🧑‍💻</h3>
     <div>
       <a href="https://github.com/JGW-Korea"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/></a>
@@ -17,7 +17,7 @@
     <br />
     <div>
       <span><a href="#"><strong>동작 원리</strong></a>를 <a href="#"><strong>깊이 이해</strong></a>하며, <a href="#"><strong>한 단계씩 성장</strong></a>하는 <strong>프론트엔드 개발자 조계원</strong>입니다.</span><br/>
-      <span><a href="#">사용자 경험 개선</a> 그리고 <a href="#">기술적 접근성</a>을 <a href="#">향상</a>하는 개발자로 성장하기 위해 끊임없이 노력합니다.</span>
+      <span><a href="#"><strong>사용자 경험 개선</strong></a> 그리고 <a href="#"><strong>기술적 접근성</strong></a>을 <a href="#"><strong>향상</strong></a>하는 개발자로 성장하기 위해 끊임없이 노력합니다.</span>
     </div>
   </div>
   <br />
