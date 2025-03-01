@@ -22,12 +22,12 @@
 </div>
 
 <br />
-<!-- 기술 설명 -->
 
+<!-- 기술 설명 -->
 <div>
   <h2>🛠️ SKILL</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGW-Korea&hide=python,c&langs_count=5&theme=slateorange" alt="Top Langs" width="350" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGW-Korea&hide=python,c&theme=slateorange&layout=donut-vertical" alt="Top Langs" width="350" />
   </a>
   <div>
     <div>
