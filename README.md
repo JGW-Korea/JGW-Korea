@@ -26,8 +26,6 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgw6372" alt="Baekjoon Rank" />
 </div>
 
-<br />
-
 <!-- 기술 설명 -->
 <div>
   <h2>🛠️ SKILL</h2>
