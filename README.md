@@ -4,7 +4,7 @@
 <div>
   <div>
     <img align="right" src="./assets/img/web_devloper.gif" alt="웹 개발자 GIT 파일" width="300" height="176"  />
-    <h3>👋 Hi, I'm GyeWon, a Frontend Dev 🧑‍💻</h3>
+    <h3>👋 Hi, I’m GyeWon, a Frontend Developer 🧑‍💻</h3>
     <div>
       <a href="https://github.com/JGW-Korea"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/></a>
       <a href="https://dramatic-jasmine-13a.notion.site/Web-Development-f4c3f4ccd2674db8833c4ed0f5575a45"><img src="https://img.shields.io/badge/-TechBlog-EEEEEE?style=for-the-badge&logo=Notion&logoColor=black" alt="Tech Blog Badge"/></a>
