@@ -23,6 +23,37 @@
 
 <br />
 <!-- 기술 설명 -->
+
 <div>
-  <h2>SKILL</h2>
+  <h2>🛠️ SKILL</h2>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGW-Korea&hide=python,c&langs_count=5&theme=slateorange" alt="Top Langs" width="350" />
+  </a>
+  <div>
+    <div>
+      <h4>Front-End</h4>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" alt="Github Badge"/>
+    </div>
+    <div>
+      <h4>Back-End</h4>
+      <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Github Badge"/>
+    </div>
+    <div>
+      <h4>Tools</h4>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/Notion-EEEEEE?style=for-the-badge&logo=notion&logoColor=black" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+    </div>
+  </div>
 </div>
