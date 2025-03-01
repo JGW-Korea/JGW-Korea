@@ -2,7 +2,7 @@
 
 <!-- 나에 대한 설명 -->
 <div>
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgw6372" alt="Baekjoon Rank"/>
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgw6372" alt="Baekjoon Rank" width="300"/>
   <h3>👋 Hi, I’m GyeWon, a Frontend Developer 🧑‍💻</h3>
   <div>
     <a href="https://github.com/JGW-Korea"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/></a>
