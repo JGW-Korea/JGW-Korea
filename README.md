@@ -3,7 +3,6 @@
 <!-- 나에 대한 설명 -->
 <div>
   <div>
-    <!-- <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgw6372" alt="Baekjoon Rank" width="350px"/> -->
     <img align="right" src="./assets/img/web_devloper.gif" alt="웹 개발자 GIT 파일" width="300px" height="170px" />
     <h3>👋 Hi, I'm GyeWon, a Frontend Dev 🧑‍💻</h3>
     <div>
@@ -13,7 +12,7 @@
     </div>
     <br />
     <div>
-      <span>기술의 <a href="#">동작 원리를 깊이 이해</a>하며, <a href="#">한 단계씩 성장</a>하는 <strong>프론트엔드 개발자 조계원</strong>입니다.</span><br/>
+      <span><a href="#">동작 원리</a>를 <a href="#">깊이 이해</a>하며, <a href="#">한 단계씩 성장</a>하는 <strong>프론트엔드 개발자 조계원</strong>입니다.</span><br/>
       <span><a href="#">사용자 경험 개선</a> 그리고 <a href="#">기술적 접근성</a>을 <a href="#">향상</a>하는 개발자로 성장하기 위해 끊임없이 노력합니다.</span>
     </div>
   </div>
