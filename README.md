@@ -59,3 +59,14 @@
     </div>
   </div>
 </div>
+
+<br />
+
+<!-- 부가 설명(학력, 교육 등) -->
+<div>
+  <h2>🎓 Education</h2>
+  <ul>
+    <li><span><strong>URECA</strong> - LG U+ URECA 프론트엔드 대면 과정 1기 (2024.06. ~ 2024.12.)</span></li>
+    <li><span><strong>호남대학교</strong> - 소프트웨어학과 학사 (2018.03. ~ 2024.02.)</span></li>
+  </ul>
+</div>
