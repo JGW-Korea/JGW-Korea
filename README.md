@@ -2,7 +2,11 @@
 
 <!-- 나에 대한 설명 -->
 <div align="left">
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgw6372" alt="Baekjoon Rank" /> 
+<!--   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgw6372" alt="Baekjoon Rank" />  -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=JGW-Korea&show_icons=true&theme=apprentice" alt="조계원's Github Stats"/>
+  </a>
   
   <h3>👋 Hi, I’m GyeWon, a Frontend Developer 🧑‍💻</h3>
   <div>
@@ -27,7 +31,7 @@
 <div>
   <h2>🛠️ SKILL</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGW-Korea&hide=python,c&theme=slateorange&layout=donut-vertical" alt="Top Langs" width="350" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGW-Korea&hide=python,c&theme=apprentice&layout=donut-vertical" alt="Top Langs" width="350" />
   </a>
   <div>
     <div>
