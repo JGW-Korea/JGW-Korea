@@ -23,16 +23,19 @@
 
   <br />
 
-  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JGW-Korea&show_icons=true&theme=apprentice&hide=contribs" alt="조계원's Github Stats"/></a> -->
+  
   
 </div>
 
 <!-- 기술 설명 -->
 <div>
   <h2>🛠️ SKILL</h2>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JGW-Korea&show_icons=true&theme=apprentice&hide=contribs" alt="조계원's Github Stats"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGW-Korea&hide=python,c&theme=apprentice&layout=donut-vertical" alt="Top Langs" width="350" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGW-Korea&hide=python,c&theme=apprentice&layout=compact" alt="Top Langs" height="170"/>
   </a>
+  
   <div>
     <div>
       <h4>Front-End</h4>
