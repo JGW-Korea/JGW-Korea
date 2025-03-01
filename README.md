@@ -4,9 +4,6 @@
 <div align="left">
   
   <h3>👋 Hi, I’m GyeWon, a Frontend Developer 🧑‍💻</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JGW-Korea&show_icons=true&theme=apprentice&hide=contribs" alt="조계원's Github Stats"/></a>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgw6372" alt="Baekjoon Rank" />
-  
   <div>
     <a href="https://github.com/JGW-Korea"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/></a>
     <a href="https://dramatic-jasmine-13a.notion.site/Web-Development-f4c3f4ccd2674db8833c4ed0f5575a45"><img src="https://img.shields.io/badge/-TechBlog-EEEEEE?style=for-the-badge&logo=Notion&logoColor=black" alt="Tech Blog Badge"/></a>
@@ -24,6 +21,9 @@
   </div>
 
   <br />
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JGW-Korea&show_icons=true&theme=apprentice&hide=contribs" alt="조계원's Github Stats"/></a>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgw6372" alt="Baekjoon Rank" />
 </div>
 
 <br />
