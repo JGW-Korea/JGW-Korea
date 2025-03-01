@@ -29,7 +29,7 @@
 
 <!-- 기술 설명 -->
 <div>
-  <h2>🛠️ SKILL</h2>
+  <h2>🚀 My GitHub Story</h2>
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JGW-Korea&show_icons=true&theme=apprentice&hide=contribs" alt="조계원's Github Stats"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -38,7 +38,7 @@
   
   <div>
     <div>
-      <h4>Front-End</h4>
+      <h4>🔖 TECH STACK</h4>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Github Badge"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Github Badge"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Github Badge"/>
@@ -52,14 +52,7 @@
       <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Github Badge"/>
     </div>
     <div>
-      <h4>Back-End</h4>
-      <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge" alt="Github Badge"/>
-      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Github Badge"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Github Badge"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Github Badge"/>
-    </div>
-    <div>
-      <h4>Tools</h4>
+      <h4>🛠️ Tools</h4>
       <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Github Badge"/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Github Badge"/>
       <img src="https://img.shields.io/badge/Notion-EEEEEE?style=for-the-badge&logo=notion&logoColor=black" alt="Github Badge"/>
