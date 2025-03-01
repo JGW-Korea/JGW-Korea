@@ -3,7 +3,7 @@
 <!-- 나에 대한 설명 -->
 <div>
   <div>
-    <img align="right" src="./assets/img/web_devloper.gif" alt="웹 개발자 GIT 파일" width="300" height="174"  />
+    <img align="right" src="./assets/img/web_devloper.gif" alt="웹 개발자 GIT 파일" width="300" height="176"  />
     <h3>👋 Hi, I'm GyeWon, a Frontend Dev 🧑‍💻</h3>
     <div>
       <a href="https://github.com/JGW-Korea"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/></a>
