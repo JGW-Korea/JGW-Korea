@@ -4,7 +4,7 @@
 <div>
   <div>
     <!-- <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgw6372" alt="Baekjoon Rank" width="350px"/> -->
-    <img align="right" src="./assets/img/web_devloper.gif" alt="웹 개발자 GIT 파일" width="330px" height="170px" />
+    <img align="right" src="./assets/img/web_devloper.gif" alt="웹 개발자 GIT 파일" width="300px" height="170px" />
     <h3>👋 Hi, I'm GyeWon, a Frontend Dev 🧑‍💻</h3>
     <div>
       <a href="https://github.com/JGW-Korea"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/></a>
