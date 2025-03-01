@@ -19,6 +19,9 @@
       <span><a href="#"><strong>사용자 경험 개선</strong></a> 그리고 <a href="#"><strong>기술적 접근성</strong></a>을 <a href="#"><strong>향상</strong></a>하는 개발자로 성장하기 위해 끊임없이 노력합니다.</span>
     </div>
   </div>
+  <div align="right">
+    
+  </div>
 <!--   <div></div>
   
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jgw6372" alt="Baekjoon Rank" width="300"/> -->
